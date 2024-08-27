@@ -1,6 +1,8 @@
 # Credit-Learning
 
+
 # Credit-Learning Smart Contract
+![image](https://github.com/user-attachments/assets/2b773262-e4df-4045-b24b-86ee711a9104)
 
 ## Vision
 The Credit-Learning smart contract is designed to incentivize users to engage with educational content through a token-based reward system. Users earn tokens by completing videos and assignments, which they can use to unlock additional topics and assignments. This system aims to enhance user engagement and provide a structured learning path with clear incentives.
