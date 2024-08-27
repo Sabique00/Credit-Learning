@@ -16,10 +16,7 @@ The Credit-Learning smart contract is designed to incentivize users to engage wi
 [Start] → [User Registration] → [Complete Video] → [Complete Assignment] → [Unlock Topic] → [Check Status]
 ```
 
-## Contract Address
-The contract address is required for interacting with the deployed smart contract on the Ethereum network. Ensure to replace `<CONTRACT_ADDRESS>` with your actual deployed contract address.
-
-- **Ethereum Mainnet Contract Address**: `<CONTRACT_ADDRESS>`
+- **Ethereum Mainnet Contract Address**: `<0x4dacb44ce49b367a5dc08caf0ed113312077e448>`
 
 ## Future Scope
 1. **Enhanced Security**: Implement role-based access control for additional security.
